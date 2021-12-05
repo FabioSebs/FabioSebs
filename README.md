@@ -2,7 +2,7 @@
 
 [![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioSebs&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Fabio's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioSebs)](https://github.com/anuraghazra/github-readme-stats)
+[![Fabio's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioSebs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **FabioSebs/FabioSebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
