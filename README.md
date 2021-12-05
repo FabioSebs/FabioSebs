@@ -3,9 +3,11 @@
 ## My Top Projects
 
 > ReactJS Portfolio
+
 > ![Demo](https://media.giphy.com/media/Y7WMWl7CL4CQYp139Q/giphy.gif)
 
 > ReactJSGraph Algo Visualizer
+
 > ![Demo2](https://media.giphy.com/media/fchbIhjqvfu84rxLqi/giphy.gif)
 
 [![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioSebs&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
