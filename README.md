@@ -37,9 +37,9 @@
 
 ## My Top Projects
 
-### ReactJS Portfolio
+### NextJS Blog
 
-> ![Demo](https://media.giphy.com/media/Y7WMWl7CL4CQYp139Q/giphy.gif)
+> https://fabrzy.dev
 
 ### ReactJSGraph Algo Visualizer
 
