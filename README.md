@@ -114,43 +114,44 @@
     <td valign="center" width="200">
       <a href="https://sportslinkerhq.com">
         <img src="./assets/sportsLinkerSite.png" width="200" height="80" alt="Project 1"/><br/>
-        <strong halign="center">Sports Linker</strong>
+        <strong><em>SportsLinker</em></strong>
       </a>
     </td>
     <td valign="center" width="200">
       <a href="https://tco-simulator.fabrzy.dev">
-        <img src="./assets/tcoSim.png" width="200" alt="Project 2"/><br/>
-        <strong>TCO Simulator</strong>
+        <img src="./assets/tcoSim.png" width="200" height="80" alt="Project 2"/><br/>
+        <strong><em>TCO Simulator</em></strong>
       </a>
     </td>
     <td valign="center" width="200">
-      <a href="https://yourproject3.com" target="_blank">
-        <img src="./assets/project3.png" width="150" alt="Project 3"/><br/>
-        <strong>Project 3</strong>
+      <a href="https://" target="_blank">
+        <img src="./assets/portfolio.png" width="200" height="80" alt="Project 3"/><br/>
+        <strong>Portfolio Site</strong>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://yourproject4.com" target="_blank">
-        <img src="./assets/project4.png" width="150" alt="Project 4"/><br/>
-        <strong>Project 4</strong>
+    <td valign="center" width="200">
+      <a href="https://" target="_blank">
+        <img src="./assets/leaderboardSite.png" width="200" height="80" alt="Project 3"/><br/>
+        <strong>Leaderboard Site</strong>
       </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://yourproject5.com" target="_blank">
-        <img src="./assets/project5.png" width="150" alt="Project 5"/><br/>
-        <strong>Project 5</strong>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <!-- Leave this cell empty if you don't have a 6th -->
     </td>
   </tr>
 </table>
 
-### ReactJSGraph Algo Visualizer
+##### Algorithm Visualizer
 
 > ![Demo2](https://media.giphy.com/media/fchbIhjqvfu84rxLqi/giphy.gif)
 
+
+---
+
+### 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:fabrzytech@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email Icon"/>
+    <br/>
+    <strong>fabrzytech@gmail.com</strong>
+  </a>
+</p>
 
