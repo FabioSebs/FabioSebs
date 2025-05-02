@@ -1,66 +1,156 @@
-## Welcome to Fabio's Github 👋
 
-[![Fabio's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioSebs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="./assets/profilePic.jpg" width="150" height="150" style="border-radius: 50%;" alt="Fabio Espinoza" />
+</p>
 
-## My Socials
-<div style="display:flex">
-<a href="https://www.instagram.com/fabio.sebs/"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="50" height="50"/> </a>
-<a href="https://www.youtube.com/channel/UCQyw-ckts9K_ng1fGQvHyoA"> <img src="https://cdn3.iconfinder.com/data/icons/3d-social-media-pack/256/Youtube.png" width="50" height="50"/> </a>
-<a href="https://twitter.com/FabioHokage"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_twitter-256.png" width="50" height="50"/> </a> 
+<h1 align="center">Fabio Espinoza's GitHub</h1>
+
+---
+
+## 🧑‍💻 Work Experience
+
+<table>
+<!-- verde -->
+  <tr>
+  <td width="100" valign="center">
+    <img src="./assets/verdeLogo.png" width="100" height="50" alt="VerdeKinetics Logo" />
+  </td>
+  <td valign="top">
+    <strong>VerdeKinetics</strong><br/>
+    <em>Singapore</em><br/>
+    <span>🗓️ <strong> Duration </strong> <br /> Sep 2022 -  <br/>Dec 2024</span>
+  </td>
+  <td valign="top">
+    <strong>Backend Golang Developer</strong>
+    <p>Creating scalable microservices in Golang for a microloan platform and deploying via Google Cloud Platform / Docker.</p>
+  </td>
+</tr>
+
+<!-- ICCT -->
+  <tr>
+    <td width="100" valign="center">
+      <img src="./assets/icctLogo.jpg" width="160" height="80" alt="Company 1 Logo" />
+    </td>
+    <td valign="top">
+    <strong>ICCT </strong><br/>
+    <em>USA</em><br/>
+     <span>🗓️ <strong> Duration </strong> <br /> May 2023 -  <br/>Dec 2024</span>
+  </td>
+  <td valign="top">
+    <strong>Data Analyst</strong>
+    <p>Created Tableau Dashboards and collected latest EV model data via webscraping. Created Python course and created centralized RSS Feed for team.</p>
+  </td>
+  </tr>
+
+  <!-- KIWIHOSTING -->
+  <tr>
+    <td width="100" valign="center">
+      <img src="./assets/khbg.png" width="80" height="80"/>
+    </td>
+    <td valign="top">
+    <strong>Kiwi Hosting</strong><br/>
+    <em>Australia</em><br/>
+     <span>🗓️ <strong> Duration </strong> <br /> March 2024 -  <br/>Dec 2024</span>
+  </td>
+  <td valign="top">
+    <strong>Fullstack Dev / Project Manager</strong>
+    <p>Implemented Authentication with OAuth, JWT, 2FA, and QR Code. Additionally created a Billing Panel for the hosting service.</p>
+  </td>
+  </tr>
+
+  <!-- SportsLinker -->
+  <tr>
+    <td width="100" valign="center">
+      <img src="./assets/sl_logo_transparent.png" width="80" height="80"/>
+    </td>
+    <td valign="top">
+    <strong>SportsLinker</strong><br/>
+    <em>Indonesia</em><br/>
+     <span>🗓️ <strong> Duration </strong> <br /> Jan 2025 -  <br/>Present</span>
+  </td>
+  <td valign="top">
+    <strong>Fullstack Dev / Project Manager</strong>
+    <p>Created a scalable SASS sports management platform from scratch fully equipped with CI/CD , payment gateway, authentication and server monitoring</p>
+  </td>
+  </tr>
+</table>
+
+
+
+---
+
+## 🚀 My Favorite Languages and Technologies
+
+<p align="center">
+  <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/2x/golang.png" width="50" height="50"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" width="50" height="50"/>
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-256.png" width="50" height="50"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/application-file-formats/128/javascript-128.png" width="50" height="50"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" width="50" height="50"/>
+  <br/><br/>
+  <img src="https://cdn2.iconfinder.com/data/icons/file-types-59/512/scss-256.png" width="50" height="50"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-256.png" width="50" height="50"/>
+  <img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-256.png" width="50" height="50"/>
+  <img src="https://cdn2.iconfinder.com/data/icons/format-file-3/32/38_sql-256.png" width="50" height="50"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png" width="50" height="50"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" width="50" height="50"/>
+  <br/><br/>
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-256.png" width="50" height="50"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/nginx_logo-1024.png " width="50" height="50"/>
+  <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png " width="50" height="50"/>
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_adobe_photoshop-256.png" width="50" height="50"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/16_Aftereffects_After_Effects_Adobe_logo_logos-256.png" width="50" height="50"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/file-premiere-256.png" width="50" height="50"/>
+</p>
 </div>
 
-## My Favorite Languages and Technologies
-<div style="display:flex">
-<img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" width="50" height="50"/>
-<img src="https://img.icons8.com/color/2x/golang.png" width="50" height="50"/> 
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" width="50" height="50"/>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-256.png" width="50" height="50"/>  
-<img src="https://cdn1.iconfinder.com/data/icons/application-file-formats/128/javascript-128.png" width="50" height="50"/>
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" width="50" height="50"/>
-<img src="https://cdn2.iconfinder.com/data/icons/file-types-59/512/scss-256.png" width="50" height="50"/>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-256.png" width="50" height="50"/>
-<img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-256.png" width="50" height="50"/>
-<img src="https://cdn2.iconfinder.com/data/icons/format-file-3/32/38_sql-256.png" width="50" height="50"/>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png" width="50" height="50"/>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" width="50" height="50"/>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-256.png" width="50" height="50"/>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_adobe_photoshop-256.png" width="50" height="50"/>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/16_Aftereffects_After_Effects_Adobe_logo_logos-256.png" width="50" height="50"/>
-<img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/file-premiere-256.png" width="50" height="50"/>
+---
 
-  
-  
+### 🌐 My Projects
 
-  
-  
-</div>
-
-## My Top Projects
-
-### NextJS Blog
-
-> https://fabrzy.dev
+<table>
+  <tr>
+    <td valign="center" width="200">
+      <a href="https://sportslinkerhq.com">
+        <img src="./assets/sportsLinkerSite.png" width="200" height="80" alt="Project 1"/><br/>
+        <strong halign="center">Sports Linker</strong>
+      </a>
+    </td>
+    <td valign="center" width="200">
+      <a href="https://tco-simulator.fabrzy.dev">
+        <img src="./assets/tcoSim.png" width="200" alt="Project 2"/><br/>
+        <strong>TCO Simulator</strong>
+      </a>
+    </td>
+    <td valign="center" width="200">
+      <a href="https://yourproject3.com" target="_blank">
+        <img src="./assets/project3.png" width="150" alt="Project 3"/><br/>
+        <strong>Project 3</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://yourproject4.com" target="_blank">
+        <img src="./assets/project4.png" width="150" alt="Project 4"/><br/>
+        <strong>Project 4</strong>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://yourproject5.com" target="_blank">
+        <img src="./assets/project5.png" width="150" alt="Project 5"/><br/>
+        <strong>Project 5</strong>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <!-- Leave this cell empty if you don't have a 6th -->
+    </td>
+  </tr>
+</table>
 
 ### ReactJSGraph Algo Visualizer
 
 > ![Demo2](https://media.giphy.com/media/fchbIhjqvfu84rxLqi/giphy.gif)
 
-### Go E-Charts Graph Visualizer
 
-> ![Demo3](https://media.giphy.com/media/PNdsrwR1bt7kcYNxkr/giphy.gif)
-
-<!--
-**FabioSebs/FabioSebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h1>test</h1>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
