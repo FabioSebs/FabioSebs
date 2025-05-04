@@ -97,8 +97,8 @@
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" width="50" height="50"/>
   <br/><br/>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-256.png" width="50" height="50"/>
-  <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/nginx_logo-1024.png " width="50" height="50"/>
-  <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png " width="50" height="50"/>
+  <img src="./assets/nginx-svgrepo-com.svg " width="50" height="50"/>
+  <img src="./assets/git-svgrepo-com.svg" width="50" height="50"/>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_adobe_photoshop-256.png" width="50" height="50"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/16_Aftereffects_After_Effects_Adobe_logo_logos-256.png" width="50" height="50"/>
   <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/file-premiere-256.png" width="50" height="50"/>
